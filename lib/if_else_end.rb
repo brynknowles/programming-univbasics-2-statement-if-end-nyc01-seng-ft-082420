@@ -14,3 +14,5 @@ end
 # else
 #   puts "Odd!"
 # end
+
+solution Two
