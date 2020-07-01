@@ -1,3 +1,5 @@
 # Write your solution here
 
-if 
+# if current second is an even number
+#   puts "Even!"
+# 
