@@ -1,6 +1,6 @@
 # Write your solution here
 
-if current second is an even number
+if current_time = Time.now
    puts "Even!"
  else
    puts "Odd!"
