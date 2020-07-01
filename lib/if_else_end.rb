@@ -7,3 +7,5 @@ if current_time % 2 == 0
  else
    puts "Odd!"
 end
+
+cleanup the code by trying this solution:
