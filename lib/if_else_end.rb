@@ -2,6 +2,6 @@
 
 if current second is an even number
    puts "Even!"
- elsif current second is an odd number
+ else
    puts "Odd!"
 end
