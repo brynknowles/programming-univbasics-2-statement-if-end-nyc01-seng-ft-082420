@@ -8,4 +8,9 @@ if current_time % 2 == 0
    puts "Odd!"
 end
 
-cleanup the code by trying this solution:
+# cleanup the code by trying this solution:
+# if Time.now.to_i % 2 == 0
+#   puts "Even!"
+# else
+#   puts "Odd!"
+# end
